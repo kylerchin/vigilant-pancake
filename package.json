@@ -10,7 +10,7 @@
     "@fontsource/fira-mono": "^4.5.10",
     "@neoconfetti/svelte": "^1.0.0",
     "@sveltejs/adapter-node": "^1.2.4",
-    "@sveltejs/kit": "^1.16.3",
+    "@sveltejs/kit": "^1.27.1",
     "@types/cookie": "^0.5.1",
     "svelte": "^3.59.1",
     "vite": "^4.3.6"
